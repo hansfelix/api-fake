@@ -1,0 +1,13 @@
+{
+    "id": 6,
+    "isActive": false,
+    "picture": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
+    "name": "Ana Lucía",
+    "lastName": "Saldivar Verde",
+    "age": 21,
+    "email": "verde2445@gmail.com",
+    "description": "The is the face of Allyson Eustice, a true pioneer among giants. She stands tiny among others, despite her strong frame.",
+    "courses": [
+        "Diseño y Maquetación Web"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "id": 2,
+    "isActive": true,
+    "picture": "https://xsgames.co/randomusers/assets/avatars/female/50.jpg",
+    "name": "Cristina",
+    "lastName": "Gonzalez Nuñez",
+    "age": 27,
+    "email": "g3487n@gmail.com",
+    "description": "Black, long hair double braided to reveal a craggy, gloomy face. Gentle gray eyes, set low within their sockets, watch attentively over the city they've been isolated from for so long. Freckles are spread elegantly across her cheeks and forehead and and leaves a heartbreaking memory of her fortunate upbringing.",
+    "courses": ["Javascript", "PHP", "python"]
+}

@@ -1,0 +1,13 @@
+{
+    "id": 7,
+    "isActive": true,
+    "picture": "https://xsgames.co/randomusers/assets/avatars/female/31.jpg",
+    "name": "Teresa",
+    "lastName": "Bazalar Balarezo",
+    "age": 35,
+    "email": "bb_tunki@outlook.com",
+    "description": "There's something curious about him, perhaps it's a feeling of delight or perhaps it's simply his humility. But nonetheless, people tend to share local gossip with him, while spreading rumors about him behind his back.",
+    "courses": [
+        "Diseño y Maquetación Web"
+    ]
+}

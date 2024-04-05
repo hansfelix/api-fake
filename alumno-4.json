@@ -1,0 +1,11 @@
+{
+    "id": 4,
+    "isActive": true,
+    "picture": "https://xsgames.co/randomusers/assets/avatars/male/15.jpg",
+    "name": "Cristiano",
+    "lastName": "Guadalupo Contreras",
+    "age": 21,
+    "email": "g_contreras45@gmail.com",
+    "description": "This is the face of Hagwin Stagrunner, a true spectacle among elves. He stands short among others, despite his bulky frame.",
+    "courses": ["Diseño y Maquetación Web"]
+}

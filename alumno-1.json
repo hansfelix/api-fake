@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "isActive": true,
+    "picture": "https://xsgames.co/randomusers/assets/avatars/female/71.jpg",
+    "name": "Yolanda",
+    "lastName": "Ramos Flores",
+    "age": 25,
+    "email": "yr@gmail.com",
+    "description": "Brown, long hair hangs over a furrowed, lived-in face. Piercing golden eyes, set rooted within their sockets, watch wearily over the sea they've befriended for so long.vA gunshot left a mark reaching from the top of the left cheek , running across the nose and ending under his right eye leaves a burning memory of lost comrades.",
+    "courses": ["Diseño y Maquetación Web", "Javascript", "PHP"]
+}
